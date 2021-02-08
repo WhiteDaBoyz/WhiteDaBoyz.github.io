@@ -16,7 +16,10 @@ font-family: 'Quicksand', sans-serif;
 .header {
 	font-size: 18pt;
 }
-
+img {
+	width: 65%;
+	height: auto;
+}
 * {
 	text-align: center;
 	font-family: 'Quicksand', sans-serif;
